@@ -1,0 +1,24 @@
+Type: Compendium
+Package: R-intro-2023
+Title: Was geht (mit R)
+Version: 0.0.1
+Authors@R: 
+    person("Ivo", "Offenthaler", , "ivo.offenthaler@umweltbundesamt.at", role = c("aut", "cre"))
+Description: R-intro-2023
+License: What license it uses
+Depends: 
+    dplyr,
+    geosphere,
+    ggplot2,
+    IRkernel,
+    leaflet,
+    lubridate,
+    mapview,
+    rio,
+    rnaturalearth,
+    sf,
+    tidyr
+Remotes: 
+    ropenscilabs/rnaturalearth
+Encoding: UTF-8
+LazyData: true
