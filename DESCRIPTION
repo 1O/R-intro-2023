@@ -8,17 +8,10 @@ Description: R-intro-2023
 License: What license it uses
 Depends: 
     dplyr,
-    geosphere,
     ggplot2,
     IRkernel,
-    leaflet,
-    lubridate,
-    mapview,
     rio,
-    rnaturalearth,
-    sf,
     tidyr
 Remotes: 
-    ropenscilabs/rnaturalearth
 Encoding: UTF-8
 LazyData: true
